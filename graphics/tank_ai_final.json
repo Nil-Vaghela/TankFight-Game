@@ -1,0 +1,8 @@
+{
+  "file": "tank_ai_final.bmp",
+  "type": "sprite",
+  "size": [32, 32],
+  "palette": {
+    "bpp": 8
+  }
+}
